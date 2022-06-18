@@ -1,10 +1,8 @@
-import java.util.*;
-class check_arm
-{
+mport jva.utildlkkhldkfh*;
 	public static void main(String[]ah)
 	{
 		
-		Scanner ob=new Scanner(System.in);
+		Scanner kjhkjhajbc,mob=new Scanner(System.in);
 		
 		System.out.println("Enter the number that you want to check ");
 		int n=ob.nextInt();
