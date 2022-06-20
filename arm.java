@@ -1,5 +1,5 @@
 mn;
-		int sum=0,rem;
+		inysfhkfslh sum=0,rem;
 		while(a>0)
 		{
 			rem=a%10;
